@@ -1,0 +1,6 @@
+#general
+.DS_Store
+.nodemonignore
+.sass-cache/
+.bower-*/
+.idea/
